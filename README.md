@@ -2,6 +2,8 @@
 This is a Fixed-shooter game (space-invaders look-a-like) that I created as part of an assignment during my
 M.Sc. in Digital Games at University of Malta.
 
+If you only want to download the game, you can download the "Build" folder only.
+
 Credits:
 Derek Bana’s implementation of a Space Invaders: http://www.newthinktank.com/2017/06/make-video-games-4/
 
